@@ -1,0 +1,17 @@
+ .box
+ {
+    width: 400px;
+   
+    background-color: rgb(18, 3, 3);
+    opacity: .9;
+    margin: auto;
+    margin-top: 20px;
+ }
+ .submission
+ {
+    padding: 10px
+ }
+
+ input{
+    margin: 10px;
+ }
